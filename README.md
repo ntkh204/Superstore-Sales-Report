@@ -30,4 +30,4 @@ The Sales Report provides the Sales Manager with a comprehensive view of company
 
 - Actionable Insights: The data-driven approach empowers the Sales Manager to develop targeted marketing campaigns, focus resources on high-performing products, and implement strategies to improve product quality or customer satisfaction (potentially leading to reduced returns).
   
-Link Report: https://app.powerbi.com/links/47D0r12lDG?ctid=07acb355-56bc-489b-b98c-8fea440460e8&pbi_source=linkShare 
+Link Report: https://app.powerbi.com/view?r=eyJrIjoiMDE5YjZmZDAtMzE5OS00MWY5LTk2NjItYzVkZjkyYTdhZTE4IiwidCI6Ijk0YjQzYWQzLTQ3MDgtNDA2MS04OGI4LTllMDFmNjNhNTJhZSIsImMiOjEwfQ%3D%3D
